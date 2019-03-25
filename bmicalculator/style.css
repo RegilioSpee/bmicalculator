@@ -1,0 +1,33 @@
+body{
+  background-color: burlywood;
+}
+
+  #resultaat {
+    text-align: center;
+  }
+
+  #wrapper{
+    margin-top: 50px;     width: 30%;     margin-left: auto;     margin-right: auto;     width: 30%;     border: 10px ridge #ddd;     padding: 10px;     text-align: center;     border-radius: 20px;
+  }
+
+  .ondergewicht{
+    color: #f7b016;
+    font-weight: bold;
+  }
+
+  .gezond{
+    color: #42f44e;
+  }
+
+  .overgewicht{
+    color: darkgreen;
+    font-weight: bold;
+  }
+
+  .obesitas{
+    color: orange;
+  }
+
+  .morbesitas{
+    color: red;
+  }
